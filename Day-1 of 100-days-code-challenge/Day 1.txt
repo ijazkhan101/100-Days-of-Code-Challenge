@@ -1,0 +1,33 @@
+100 Days of Code Challenge Implementation: Days 1-10 - Setting the Foundation
+Day 1: Setting Up My Development Environment
+
+Objective: Prepare my workspace for the coding journey.
+Steps:
+
+Install Necessary Software:
+
+100 Days of Code Challenge Implementation: Days 1-10 - Setting the Foundation
+Day 1: Setting Up My Development Environment
+
+Objective: Prepare my workspace for the coding journey.
+Steps:
+
+Install Necessary Software:
+
+Text Editor/IDE: I install Visual Studio Code (VS Code) as my code editor.
+Programming Languages: I install interpreters/compilers for the languages I'll be using (e.g., Python, Java, JavaScript, etc.).
+Command-Line Tools: I ensure my terminal or command prompt is configured with tools like Git, Node.js, Python, etc.
+Package Managers: I install package managers like npm (for Node.js), pip (for Python), or others relevant to my tech stack.
+Set Up Version Control:
+
+Install Git: I make sure Git is installed on my machine.
+Create a GitHub Account: If I don’t have one, I sign up for GitHub.
+Configure Git: I set up my global username and email in Git.
+Create a Repository: I create a new repository on GitHub to track my progress and clone it to my local machine.
+Version Control Practice: I make my first commit and push it to GitHub.
+Optional (But Recommended):
+
+Environment Configuration: I set up virtual environments (e.g., venv for Python) to manage dependencies.
+Dotfiles: If I'm familiar, I set up dotfiles for custom configurations.
+Browser Extensions: I install helpful extensions like React Developer Tools, Redux DevTools, or any others that assist with development.
+Snippets/Shortcuts: I set up code snippets or shortcuts in VS Code for common tasks
